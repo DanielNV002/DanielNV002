@@ -1,4 +1,5 @@
 #WELCOME TO MY FIESTA
+![image](https://github.com/DanielNV002/DanielNV002/assets/159460657/09cd5aa7-280e-49bd-9d85-961e0b768e0b)
 
 <!--
 **DanielNV002/DanielNV002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
